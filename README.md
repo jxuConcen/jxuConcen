@@ -1,4 +1,4 @@
-# Hi there, I'm Jun Xu 👋
+# Jun Xu here 👋
 
 I'm a front-end developer passionate about writing clean, maintainable code and building sustainable web experiences that are both performant and environmentally conscious.
 
